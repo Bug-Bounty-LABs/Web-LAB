@@ -3,14 +3,14 @@
 
 
 
-1 - Vagrant code
-- Virtual Machines
+1. Vagrant code
+  1. Virtual Machines
 -- VMWare
 -- Virtual Box
-- Clouds
+2. Clouds
 -- AWS
 -- Azure
 -- GCP
-2 - Machines
+2. Machines
 - Linux WebServer
 - Linux Network Services
