@@ -16,3 +16,4 @@
 1. Basic web Attacks
 2. Databases Attacks
 3. Medium Attacks
+4. CMS Attacks
