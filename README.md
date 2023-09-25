@@ -1,17 +1,7 @@
-# Web-LAB
+# Pentesting Web LAB
 
+Build a Lab on your Machine - Debian / Kali / Parrot
 
-
-## Deploy
-### Containers
-
-### Virtual Machines
-1. VMWare
-2. Virtual Box
-### Clouds
-1. AWS
-2. Azure
-3. GCP
 ## Machines
 1. Basic web Attacks
 2. Databases Attacks
