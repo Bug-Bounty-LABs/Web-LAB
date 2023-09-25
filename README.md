@@ -11,6 +11,6 @@
     1. AWS
     2. Azure
     3. GCP
-3. Machines
+2. Machines
    1. Linux WebServer
    2. Linux Network Services
