@@ -6,9 +6,16 @@
 
 
 detect_docker(){
-  if which docker >/dev/null; then
-    echo "1"
-  else
-    echo "0"
-  fi
+    if ! command -v docker &> /dev/null
+    then
+        echo "Docker could not be found"
+        exit 1
+    fi
 }
+
+
+
+# curl -fsSL https://get.docker.com -o get-docker.sh
+# sudo sh get-docker.sh
+
+# sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
